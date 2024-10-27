@@ -37,5 +37,9 @@ To build a machine learning model that accurately classifies email messages as e
 
 ![NLTK](https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=python&logoColor=white)
 
+### GitHub Repository
+The code for this project is also available on my [Kaggle](https://www.kaggle.com/code/esrathkanon/spam-mail-classification-97).
+
+
 
 
